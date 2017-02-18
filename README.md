@@ -9,7 +9,7 @@ A tensorflow implementation of "[MT/IE: Cross-lingual Open Information Extractio
 - tensorflow r0.12 or later
 
 ## Train
-We provide you a small toy dataset (10K) to play with. To start training on this dataset, simply run:
+We provide you a small toy dataset (100K) to play with. To start training on this dataset, simply run:
 ```bash
 ./run.sh
 ```
