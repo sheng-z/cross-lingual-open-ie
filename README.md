@@ -19,4 +19,4 @@ After training for a while, you can start evaluation by:
 ```bash
 python -m mt_ie --do_decode=True
 ```
-Note: multi-bleu.perl from [mosesdecoder](https://github.com/moses-smt/mosesdecoder) is included your convenience.
+Note: multi-bleu.perl from [mosesdecoder](https://github.com/moses-smt/mosesdecoder) is included for your convenience.
